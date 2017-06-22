@@ -10,4 +10,5 @@ console.log(111);
 console.log(j);
 console.log(foo);
 console.log(foo());
+console.log(j('body')  //测试压缩后的代码有没有被破坏
 document.body.appendChild(component());
